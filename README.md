@@ -2,7 +2,7 @@
 
 This is a sample automation of www.douglas.de site login
 
-1. Clone the repo and navigate to the project folder in cdm
+1. Clone the repo and navigate to the project folder in cmd
 2. type terminal command -> npm install
 3. type terminal command -> npm install cypress --save-dev
 4. once the installation is over
